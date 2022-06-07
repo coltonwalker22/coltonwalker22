@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on ... mongo database
+- 🔭 I’m currently working on ... authentication
 - 🌱 I’m currently learning ... mongo database and Redux
 - 👯 I’m looking to collaborate on ... Anything!
 - 💬 Ask me about ......Anything!
